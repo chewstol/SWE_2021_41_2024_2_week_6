@@ -1,6 +1,6 @@
 # SWE_2021_41_2024_2_week_6
 ## Week 4 Assignment
->https://github.com/chewstol/SWE_2021_41_2024_2_week_4
+https://github.com/chewstol/SWE_2021_41_2024_2_week_4
 <pre>
   <code>
     def isHappy(n):
@@ -28,7 +28,7 @@
 
   </code>
 </pre>
->First, check given number isHappy in one loop.  If it is not Happy in first loop, add it's result in 'loops'.  Do it until result is 1 or get result that is same with one in 'loops'. If it corresponds to the former, it is happy, and if it corresponds to the latter, it is not happy.
+First, check given number isHappy in one loop.  If it is not Happy in first loop, add it's result in 'loops'.  Do it until result is 1 or get result that is same with one in 'loops'. If it corresponds to the former, it is happy, and if it corresponds to the latter, it is not happy.
 ## Week 5 Assignment
 <pre>
 <code>
