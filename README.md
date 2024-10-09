@@ -28,3 +28,10 @@
 
   </code>
 </pre>
+>First, check given number isHappy in one loop.  If it is not Happy in first loop, add it's result in 'loops'.  Do it until result is 1 or get result that is same with one in 'loops'. If it corresponds to the former, it is happy, and if it corresponds to the latter, it is not happy.
+## Week 5 Assignment
+<pre>
+<code>
+cat /etc/os-release
+</code>
+</pre>
